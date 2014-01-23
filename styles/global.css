@@ -1,0 +1,25 @@
+body{
+	background-color: #F7F7D5;
+	margin: 0 auto;
+	width: 900px;
+}
+h1{
+	text-align: center;
+}
+#articles-one{
+	float: left;
+	width: 450px;
+	padding-right: 20px;
+}
+#articles-two{
+	float: left;
+	width: 450px;
+}
+#main-image{
+	float: left;
+	padding: 3px;
+}
+#facebook{
+	position: fixed;
+	left: 5px;
+}
