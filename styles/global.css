@@ -3,15 +3,13 @@ body{
 	margin: 0 auto;
 	width: 900px;
 }
-h1{
+h1,h2{
 	text-align: center;
 }
-#articles-one{
+#article-one{
 	float: left;
-	width: 450px;
-	padding-right: 20px;
-}
-#articles-two{
+	width: 450px;}
+#article-two{
 	float: left;
 	width: 450px;
 }
